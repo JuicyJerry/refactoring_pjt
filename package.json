@@ -1,0 +1,19 @@
+{
+  "name": "refactoring-infinite-scroll",
+  "version": "1.0.0",
+  "description": "I will refactor selected a function to optimizize preexistance function of infinite scroll",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuicyJerry/refactoring_pjt.git"
+  },
+  "author": "Juicy Jerry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuicyJerry/refactoring_pjt/issues"
+  },
+  "homepage": "https://github.com/JuicyJerry/refactoring_pjt#readme"
+}
